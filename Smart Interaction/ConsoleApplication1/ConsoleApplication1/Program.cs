@@ -15,7 +15,7 @@ namespace ConsoleApplication1
         {
             CoreNLP cr = new CoreNLP();
             cr.Init();
-            cr.POSTagger("Hello world");
+            cr.POSTagger("Find the area of a circle with radius 5 cm");
             Console.WriteLine("Done");
         }
     }
