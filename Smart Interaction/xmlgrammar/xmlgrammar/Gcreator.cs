@@ -98,6 +98,7 @@ namespace xmlgrammar
             switch (key)
             {
                 case "CC" : //Coordinating conjunction
+
                     Console.WriteLine("Case: " + key + " " + "Word: " + word + " " + "Key: " + key);
                     break;
                 case "CD" ://Cardinal number
