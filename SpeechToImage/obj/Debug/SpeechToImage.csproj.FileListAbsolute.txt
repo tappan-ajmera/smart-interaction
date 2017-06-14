@@ -1,0 +1,231 @@
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\SpeechToImage.exe.config
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\SpeechToImage.exe
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\SpeechToImage.pdb
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\ejml-0.23.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.Runtime.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\javax.json.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\joda-time.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\jollyday.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\slf4j-api.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\stanford-corenlp-3.6.0.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\xom.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.csprojResolveAssemblyReference.cache
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.Form1.resources
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.Properties.Resources.resources
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.csproj.GenerateResource.Cache
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.exe
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.pdb
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\SpeechToImage.exe.config
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.exe
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.pdb
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\SpeechToImage.exe
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\SpeechToImage.pdb
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\ejml-0.23.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.Runtime.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\javax.json.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\joda-time.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\jollyday.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\slf4j-api.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\stanford-corenlp-3.6.0.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\xom.dll
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.csprojResolveAssemblyReference.cache
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.Form1.resources
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.Properties.Resources.resources
+C:\Users\Gaurav\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.csproj.GenerateResource.Cache
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\SpeechToImage.exe.config
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\SpeechToImage.exe
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\SpeechToImage.pdb
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\ejml-0.23.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\IKVM.Runtime.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\javax.json.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\joda-time.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\jollyday.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\slf4j-api.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\stanford-corenlp-3.6.0.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\bin\Debug\xom.dll
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.Form1.resources
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.Properties.Resources.resources
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.csproj.GenerateResource.Cache
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.exe
+C:\Users\Gaurav\Documents\Visual Studio 2013\Projects\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.pdb
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\SpeechToImage.exe.config
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.exe
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.pdb
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\SpeechToImage.exe
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\SpeechToImage.pdb
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\ejml-0.23.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\IKVM.Runtime.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\javax.json.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\joda-time.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\jollyday.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\NAudio.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\slf4j-api.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\stanford-corenlp-3.6.0.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\xom.dll
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\bin\Debug\NAudio.xml
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.csprojResolveAssemblyReference.cache
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.Form1.resources
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.Properties.Resources.resources
+C:\Users\TAPAN\Desktop\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.csproj.GenerateResource.Cache
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\NAudio.dll
+C:\Users\TAPAN\Documents\Visual Studio 2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\NAudio.xml
+C:\Users\TAPAN\Documents\VisualStudio2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\SpeechToImage.exe.config
+C:\Users\TAPAN\Documents\VisualStudio2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.exe
+C:\Users\TAPAN\Documents\VisualStudio2013\Projects\Smart Interaction\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.pdb
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\SpeechToImage.exe.config
+E:\INFT\BE project\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.exe
+E:\INFT\BE project\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.pdb
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\SpeechToImage.exe
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\SpeechToImage.pdb
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\ejml-0.23.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\IKVM.AWT.WinForms.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Beans.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Charsets.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Corba.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Core.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Localedata.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Management.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Media.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Misc.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Naming.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Remoting.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Security.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Text.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Tools.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.Util.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.API.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\IKVM.Runtime.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\IKVM.Runtime.JNI.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\javax.json.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\joda-time.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\jollyday.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\NAudio.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\slf4j-api.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\stanford-corenlp-3.6.0.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\xom.dll
+E:\INFT\BE project\SpeechToImage\SpeechToImage\bin\Debug\NAudio.xml
+E:\INFT\BE project\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.csprojResolveAssemblyReference.cache
+E:\INFT\BE project\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.Form1.resources
+E:\INFT\BE project\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.Properties.Resources.resources
+E:\INFT\BE project\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.csproj.GenerateResource.Cache
+C:\Users\TAPAN\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\bin\Debug\SpeechToImage.exe.config
+C:\Users\TAPAN\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.exe
+C:\Users\TAPAN\Documents\GitHub\SmartInteraction\Smart Interaction\SpeechToImage\SpeechToImage\obj\Debug\SpeechToImage.pdb
